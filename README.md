@@ -1,0 +1,2 @@
+# MAXLUX_Board
+using MCP46X2 and MCP47FEBX2
